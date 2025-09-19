@@ -61,11 +61,7 @@ Open browser at:
 🧪 Usage
 
 Speak into the mic or upload an audio file (patient voice).
-
 Whisper → converts speech → text.
-
 LLaMA 3 Vision (via Groq) → processes text (and images if provided) → generates medical-style response.
-
 gTTS/ElevenLabs → speaks the response back.
-
 Gradio UI → displays both text + audio output.
